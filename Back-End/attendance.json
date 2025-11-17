@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "exported_at": "2025-11-17T21:20:37.346247",
+    "total_students": 5,
+    "total_weeks": 7
+  },
+  "students": [
+    {
+      "student_id": 1,
+      "student_number": "2007720116",
+      "name": "김조은",
+      "major": "소프트웨어학부",
+      "attendance": {
+        "1": {
+          "status": "결석",
+          "week_name": "1주차"
+        },
+        "2": {
+          "status": "결석",
+          "week_name": "2주차"
+        },
+        "3": {
+          "status": "결석",
+          "week_name": "3주차"
+        },
+        "4": {
+          "status": "결석",
+          "week_name": "4주차"
+        },
+        "5": {
+          "status": "결석",
+          "week_name": "5주차"
+        },
+        "6": {
+          "status": "결석",
+          "week_name": "6주차"
+        },
+        "7": {
+          "status": "결석",
+          "week_name": "7주차"
+        }
+      }
+    },
+    {
+      "student_id": 2,
+      "student_number": "2022322035",
+      "name": "배혜윤",
+      "major": "영어산업학과",
+      "attendance": {
+        "1": {
+          "status": "결석",
+          "week_name": "1주차"
+        },
+        "2": {
+          "status": "결석",
+          "week_name": "2주차"
+        },
+        "3": {
+          "status": "결석",
+          "week_name": "3주차"
+        },
+        "4": {
+          "status": "결석",
+          "week_name": "4주차"
+        },
+        "5": {
+          "status": "결석",
+          "week_name": "5주차"
+        },
+        "6": {
+          "status": "결석",
+          "week_name": "6주차"
+        },
+        "7": {
+          "status": "결석",
+          "week_name": "7주차"
+        }
+      }
+    },
+    {
+      "student_id": 3,
+      "student_number": "2023205106",
+      "name": "송윤서",
+      "major": "로봇학부",
+      "attendance": {
+        "1": {
+          "status": "결석",
+          "week_name": "1주차"
+        },
+        "2": {
+          "status": "결석",
+          "week_name": "2주차"
+        },
+        "3": {
+          "status": "결석",
+          "week_name": "3주차"
+        },
+        "4": {
+          "status": "결석",
+          "week_name": "4주차"
+        },
+        "5": {
+          "status": "결석",
+          "week_name": "5주차"
+        },
+        "6": {
+          "status": "결석",
+          "week_name": "6주차"
+        },
+        "7": {
+          "status": "결석",
+          "week_name": "7주차"
+        }
+      }
+    },
+    {
+      "student_id": 4,
+      "student_number": "2023321012",
+      "name": "김초련",
+      "major": "정보융합학부",
+      "attendance": {
+        "1": {
+          "status": "결석",
+          "week_name": "1주차"
+        },
+        "2": {
+          "status": "결석",
+          "week_name": "2주차"
+        },
+        "3": {
+          "status": "결석",
+          "week_name": "3주차"
+        },
+        "4": {
+          "status": "결석",
+          "week_name": "4주차"
+        },
+        "5": {
+          "status": "결석",
+          "week_name": "5주차"
+        },
+        "6": {
+          "status": "결석",
+          "week_name": "6주차"
+        },
+        "7": {
+          "status": "결석",
+          "week_name": "7주차"
+        }
+      }
+    },
+    {
+      "student_id": 5,
+      "student_number": "2024405040",
+      "name": "송주미",
+      "major": "로봇학부",
+      "attendance": {
+        "1": {
+          "status": "결석",
+          "week_name": "1주차"
+        },
+        "2": {
+          "status": "결석",
+          "week_name": "2주차"
+        },
+        "3": {
+          "status": "결석",
+          "week_name": "3주차"
+        },
+        "4": {
+          "status": "결석",
+          "week_name": "4주차"
+        },
+        "5": {
+          "status": "결석",
+          "week_name": "5주차"
+        },
+        "6": {
+          "status": "결석",
+          "week_name": "6주차"
+        },
+        "7": {
+          "status": "결석",
+          "week_name": "7주차"
+        }
+      }
+    }
+  ],
+  "weeks": [
+    {
+      "week_id": 1,
+      "week_number": 1,
+      "week_name": "1주차",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "week_id": 2,
+      "week_number": 2,
+      "week_name": "2주차",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "week_id": 3,
+      "week_number": 3,
+      "week_name": "3주차",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "week_id": 4,
+      "week_number": 4,
+      "week_name": "4주차",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "week_id": 5,
+      "week_number": 5,
+      "week_name": "5주차",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "week_id": 6,
+      "week_number": 6,
+      "week_name": "6주차",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "week_id": 7,
+      "week_number": 7,
+      "week_name": "7주차",
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}
